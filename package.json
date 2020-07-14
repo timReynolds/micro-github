@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/mxstbr/micro-github.git#readme",
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.19.2",
     "dotenv": "^4.0.0",
     "micro": "^6.2.1"
   },
